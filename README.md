@@ -6,4 +6,4 @@ Small example project demostrating communication between
 [Wwise Authoring API (WAAPI)](https://www.audiokinetic.com/en/library/edge/?source=sdk&id=waapi.html) 
 via NodeJS.
 
-For more detail please refer to this [blog post](https://hartung.studio/blog/2022-07-08-getting-started-with-wwise-waapi-and-max-8/).
+For more detail please refer to this [blog post](https://hartung.studio/blog/2022-07-08_wwise-waapi-and-max8.html).
